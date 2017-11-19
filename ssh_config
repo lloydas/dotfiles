@@ -1,0 +1,5 @@
+Host ssh
+	HostName login.engin.umich.edu
+	User lloydas
+	Compression yes
+
